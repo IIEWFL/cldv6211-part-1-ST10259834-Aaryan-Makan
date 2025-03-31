@@ -96,8 +96,8 @@
             <mxPoint x="220" y="1168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMDXAIQepnb3acTExf4B-2" value="Reserves" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1120" width="70" height="30" as="geometry" />
+        <mxCell id="XMDXAIQepnb3acTExf4B-2" value="Assigned" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1128" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XMDXAIQepnb3acTExf4B-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
