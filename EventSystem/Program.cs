@@ -13,7 +13,7 @@ namespace EventSystem
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<EventEaseDbContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("LocalConn")));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("AzureConn")));
 
             var app = builder.Build();
 
