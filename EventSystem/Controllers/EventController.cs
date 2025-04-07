@@ -8,6 +8,24 @@ using Microsoft.EntityFrameworkCore;
 using EventSystem.Data;
 using EventSystem.Models;
 
+// Code adapted from Microsoft Learn ASP.NET Core Tutorial:
+// "Add a controller to an ASP.NET Core MVC app"
+// Source: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-9.0&tabs=visual-studio
+// Retrieved on: April 7, 2025
+
+
+// Code adapted from W3Schools tutorial:
+// "How TO - Top Navigation"
+// Source: https://www.w3schools.com/howto/howto_js_topnav.asp
+// Retrieved on: April 7, 2025
+
+
+// Code adapted from W3Schools C# Tutorial
+// Source: https://www.w3schools.com/cs/index.php
+// Retrieved on: April 7, 2025
+
+
+
 namespace EventSystem.Controllers
 {
     public class EventController : Controller
